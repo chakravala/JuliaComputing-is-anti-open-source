@@ -1,5 +1,15 @@
 # JuliaComputing is anti-open-source
 
+Are there any workplaces or environments where I am encouraged to be my best, where people aren’t threatened by my success?
+Julia Computing, Wolfram Research, etc were threatened by my success, they tried to stop me and dim my light. Where’s a workplace I can get paid to win?
+
+I have made many valuable innovative creations and continue to do so, yet there’s no workplace where I am allowed to be my best, they feel threatened by me because my knowledge is out of their control, so they have always wanted to put road blocks in my way ~
+
+It’s getting really boring when they’re always setting up the next road block to try and stop me, because it only makes me more self reliant each time.
+I’m already expecting a heavily guarded road block around each corner, so I already worked on my inner strength and self reliance to find my own way through the jungle, where there’s no roads at all ~
+
+All the academic institutions and companies hate that I’m out here working on my projects, and they did everything possible to get in the way and stop me.
+
 Instead of respecting and honoring my [hard work](https://github.com/chakravala), the Julia “community” wanted to steal my creativity without giving back.
 They wanted me to be homeless, to be kicked in the dirt, while they steal my creativity.
 
